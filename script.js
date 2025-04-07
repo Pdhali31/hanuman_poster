@@ -6,7 +6,7 @@ function toBengaliDigits(num) {
 }
 
 // Set target Hanuman Jayanti date (change if needed)
-const eventDate = new Date("2025-04-23T00:00:00");
+const eventDate = new Date("2025-04-12T00:00:00");
 
 function updateCountdown() {
   const now = new Date();
